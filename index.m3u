@@ -1,13 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="animax" group-title="Test" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png", animax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"12vq1C+Ydcg736NVlggbwA","kid":"V6AvqpA8OIemkd/radGvBg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="cinemax" group-title="TV" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png", CINEMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -16,7 +8,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO" group-title="TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", HBO MPD
+#EXTINF:-1 tvg-id="HBO" group-title="TV" tvg-logo="https://epg.112114.xyz/logo/HBO.png", HBO MPD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
