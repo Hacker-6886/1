@@ -1,12 +1,11 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="carttoon-network" group-title="Test" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png", carttoon-network
+#EXTINF:-1 tvg-id="animax" group-title="Test" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png", animax
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PCAWZmCpOnWsd9uBVnOJ9w","k":"PMGt1Drszj_jHJxqKluMIQ"}],"type":"temporary"}
-https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"12vq1C+Ydcg736NVlggbwA","kid":"V6AvqpA8OIemkd/radGvBg"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/animax.smil/manifest.mpd
 
 
 
