@@ -1,19 +1,21 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="carttoon-network" group-title="Test" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png", carttoon-network
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PCAWZmCpOnWsd9uBVnOJ9w","k":"PMGt1Drszj_jHJxqKluMIQ"}],"type":"temporary"}
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/manifest.mpd
 
 
 
 
-
-
-#EXTINF:-1 tvg-id="cinemax" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", CINEMAX HD
+#EXTINF:-1 tvg-id="cinemax" group-title="TV" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png", CINEMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="HBO" group-title="TV" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png", HBO MPD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -21,8 +23,6 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-id="axn" group-title="TV", AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
