@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+SPORT1 - MyTV
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://nguyenhoangluc:nguyenhoangluc@hothanhdam.dsmynas.com:9981/stream/channelid/1896735193?profile=pass
+
+
+
+
 #EXTINF:-1 tvg-name="AP" group-title="TV", Animal planet 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
