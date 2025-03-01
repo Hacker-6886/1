@@ -4,8 +4,8 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"HpYCA/jf1nefWyh7KNJ9dg","kid":"U3iOtb1GQBidlQPkA3Ie7A"}],"type":"temporary"}
-http://live2onsport.vtvcab.vn/onplus/SCTV17HD/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oYobR16sgV2PoZd4QIpUCg", "kid":"pN4tkf9PPEmP+QzOMkfG1A" } ], "type":"temporary" }
+http://live2onsport.vtvcab.vn/onplus/SCTV15HD/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="axn" group-title="TV", AXN
