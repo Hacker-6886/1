@@ -1,5 +1,44 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+#EXTINF:-1 xui-id="5247" tvg-id="ksport1hd" tvg-name="K+ Sport 1 | MAIN" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Sport 1 | MAIN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN33w2MTFBn3QVCcXHlNyL3Q/ts
+
+#EXTINF:-1 xui-id="4962" tvg-id="ksport2hd" tvg-name="K+ Sport 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Sport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN8i3BC-ch3chibJtyEV46pM/ts
+
+#EXTINF:-1 xui-id="7147" tvg-id="ksport1hd" tvg-name="K+ Sport 1 Event T7 & CN" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Sport 1 Event T7 & CN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN-eq-ygKHlLsWNsIAsK-C9k/ts
+
+#EXTINF:-1 xui-id="7148" tvg-id="ksport2hd" tvg-name="K+ Sport 2 Event T7 & CN" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Sport 2 Event T7 & CN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN_T8zq0oBioV9xtDBqU0_YM/ts
+
+#EXTINF:-1 xui-id="5409" tvg-id="ksport1hd" tvg-name="K+ Sport 1 VIETTEL IDC" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Sport 1 VIETTEL IDC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN69vmj9_qUiSc1D3LD5L6k8/ts
+
+#EXTINF:-1 xui-id="7139" tvg-id="ksport1hd" tvg-name="K+ Sport 1 VIETTEL IDC 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Sport 1 VIETTEL IDC 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN4_bHImVZZfEJ0dsUnOsjgM/ts
+
+#EXTINF:-1 xui-id="7143" tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e8/Kplus_Kids_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042543&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPNzLuxKbnRD284EztGsad_68/ts
+
+#EXTINF:-1 xui-id="7136" tvg-id="kcinehd" tvg-name="K+ Cine" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Kplus_Cine_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042536&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN3pKGCaTcJD0cTHwTq5Jz9E/ts
+
+#EXTINF:-1 xui-id="7137" tvg-id="kaction" tvg-name="K+ Action" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3c/Kplus_Action_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042537&path-prefix=vi" group-title="01. Thể Thao ⚽️",K+ Action
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vuikhoetv.online:443/play/87roEFuaV3ISr46XVLFPN5C9Kd2HK-PBKyB-KPw2ZOI/ts
+
+
+
+
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
